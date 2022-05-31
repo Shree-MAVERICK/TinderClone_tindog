@@ -1,3 +1,3 @@
 # TinDog Starting Files
-## Check it here !
+## Check the site here !!
 ## https://shree-maverick.github.io/TinderClone_tindog/ 🐶❣
